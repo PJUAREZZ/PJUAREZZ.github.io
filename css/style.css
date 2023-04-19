@@ -1,0 +1,17 @@
+body{
+    background-color: darkgray;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+   background-color: tan;
+   font-family: Arial, Helvetica, sans-serif
+   
+}
+nav{
+    background-color: #a1948b;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
